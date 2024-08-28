@@ -1,0 +1,45 @@
+#main{
+    width: 1200px;
+    min-height: 1450px;
+    background: white;
+    margin-left: 150px;
+    
+}
+.navbar{
+ width: inherit; 
+ min-height: 100px;  
+ background: black;
+opacity: 0.1;
+ 
+}
+
+.menu{
+width: inherit;
+height: 600px;
+background-image: url(../img/desk-593327_1280.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.isuzu{
+    
+       width: 100px;
+        min-height: 27px;  
+        background: black;
+       opacity: 0.2;
+       border: solid white;
+       position: absolute;
+       top: 51px;
+       left: 236px;
+        
+     
+}
+.jut{
+    width:1200px;
+    height: 200px;
+    background: #F7F7F7;
+    position: absolute;
+    top: 608px;
+    left: 158px;
+   
+}
